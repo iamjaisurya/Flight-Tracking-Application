@@ -28,8 +28,6 @@ Follow these steps to set up and run the application:
 
 Clone the Repository
 
-git clone <your-repository-link>
-
 Navigate to the Project Directory
 
 cd <project-folder>
@@ -91,15 +89,6 @@ style.css: For styling the application.
 script.js: Contains the JavaScript logic.
 
 requirements.txt: EmailJS for email automation and Leaflet.js for map
-
-Screenshots
-
-Add screenshots of the application interface here.
-
-
-
-
-
 
 Contact
 
