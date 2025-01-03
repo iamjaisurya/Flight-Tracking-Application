@@ -1,0 +1,2 @@
+Leaflet.js for maps
+EmailJS for sending emails
